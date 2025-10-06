@@ -1,0 +1,17 @@
+{
+  "name": "jmd-direct-services",
+  "version": "1.0.0",
+  "description": "JMD Direct Services - A complete Solution for all",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.1.9"
+  }
+}
